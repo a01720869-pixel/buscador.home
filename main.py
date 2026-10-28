@@ -1,6 +1,6 @@
 
 from recorrido import listar_archivos
-from buscar_palabra import buscar_palabra
+from buscar import buscar_palabra
 
 def main():
     carpeta = input("Escribe la carpeta donde quieres buscar: ").strip()
